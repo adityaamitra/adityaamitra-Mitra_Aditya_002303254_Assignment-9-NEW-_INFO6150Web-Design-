@@ -26,6 +26,30 @@ const jobData = [
     description: 'Exciting Full Stack Developer role with remote work flexibility.',
     applyLink: '#',
   },
+  {
+    id: 4,
+    title: 'Data Analyst',
+    company: 'Company D',
+    location: 'New York, NY',
+    description: 'A great opportunity for a Data Analyst to join a growing tech company.',
+    applyLink: '#',
+  },
+  {
+    id: 5,
+    title: 'React Developer',
+    company: 'Company E',
+    location: 'Boston, MA',
+    description: 'A great opportunity for a React Developer to join a growing tech company.',
+    applyLink: '#',
+  },
+  {
+    id: 6,
+    title: 'Angular Developer',
+    company: 'Company F',
+    location: 'Boston, MA',
+    description: 'A great opportunity for a Angular Developer to join a growing tech company.',
+    applyLink: '#',
+  },
   
 ];
 
