@@ -5,11 +5,11 @@ function About() {
   return (
     <Box
       sx={{
-        // Set a background image
+        
         backgroundImage: 'url(https://images.pexels.com/photos/417074/pexels-photo-417074.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)', // You can change this to your own image URL
         backgroundSize: 'cover',
         backgroundPosition: 'center',
-        height: '100vh', // Full height of the viewport
+        height: '100vh', 
         display: 'flex',
         justifyContent: 'center',
         alignItems: 'center',
@@ -19,7 +19,7 @@ function About() {
       <Container
         maxWidth="lg"
         sx={{
-          backgroundColor: 'rgba(255, 255, 255, 0.7)', // Semi-transparent white background to make text stand out
+          backgroundColor: 'rgba(255, 255, 255, 0.7)', 
           padding: '20px',
           borderRadius: '8px',
           boxShadow: 3,
